@@ -29,3 +29,15 @@ body ul {
 
 	border-radius: 0.3 rem;
 }
+
+.tools {
+	color: white;
+	padding: 25px;
+	height: 250px;
+	border: 5px solid #f2f2f2;
+	margin: 20px;
+	width: 75%;
+
+
+
+}
