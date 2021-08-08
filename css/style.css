@@ -13,3 +13,14 @@ body ul {
   list-style: none;
   padding: 0;
 }
+
+#landing {
+	/** add vertical function*/
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+
+
+	height: 80vh;
+}
